@@ -69,7 +69,7 @@ button {
 }
 
 button:hover,
-.button-24:active {
+button:active {
     background-color: initial;
     background-position: 0 0;
     color: #FF4742;
